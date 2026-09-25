@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect x="1" y="1" width="62" height="62" rx="12" fill="#12161F"/>
+  <rect x="1" y="1" width="62" height="62" rx="12" fill="none" stroke="#232A38" stroke-width="2"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="9" fill="none" stroke="#323B4E" stroke-width="1" opacity="0.6"/>
+  <!-- gold star -->
+  <path d="M32 8.5 L33.6 12.4 L37.8 12.9 L34.7 15.7 L35.5 19.9 L32 17.9 L28.5 19.9 L29.3 15.7 L26.2 12.9 L30.4 12.4 Z" fill="#E8B84B"/>
+  <!-- WCCF monogram -->
+  <text x="32" y="44" text-anchor="middle" font-family="'Barlow Condensed', 'Arial Narrow', sans-serif" font-weight="700" font-size="21" letter-spacing="1" fill="#FF8A1E">WCCF</text>
+  <!-- baseline tick -->
+  <rect x="20" y="49" width="24" height="2" rx="1" fill="#FF8A1E" opacity="0.55"/>
+</svg>
