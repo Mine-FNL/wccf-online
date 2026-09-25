@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="goldStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2D48A"/>
+      <stop offset="0.5" stop-color="#E8B84B"/>
+      <stop offset="1" stop-color="#B8892E"/>
+    </linearGradient>
+  </defs>
+  <!-- dark navy enamel center -->
+  <circle cx="128" cy="128" r="104" fill="#101725"/>
+  <circle cx="128" cy="128" r="104" fill="none" stroke="url(#goldStroke)" stroke-width="3"/>
+  <circle cx="128" cy="128" r="94" fill="none" stroke="#E8B84B" stroke-width="1" opacity="0.5"/>
+  <!-- laurel wreath: left branch -->
+  <g fill="none" stroke="url(#goldStroke)" stroke-width="2.5" stroke-linecap="round">
+    <path d="M 74 196 C 52 176 44 146 50 116"/>
+    <path d="M 182 196 C 204 176 212 146 206 116"/>
+  </g>
+  <g fill="#E8B84B" opacity="0.9">
+    <!-- left leaves -->
+    <ellipse cx="58" cy="150" rx="10" ry="4.5" transform="rotate(-64 58 150)"/>
+    <ellipse cx="63" cy="128" rx="10" ry="4.5" transform="rotate(-78 63 128)"/>
+    <ellipse cx="56" cy="172" rx="10" ry="4.5" transform="rotate(-46 56 172)"/>
+    <ellipse cx="73" cy="105" rx="9" ry="4" transform="rotate(-88 73 105)"/>
+    <ellipse cx="67" cy="188" rx="9" ry="4" transform="rotate(-30 67 188)"/>
+    <!-- right leaves -->
+    <ellipse cx="198" cy="150" rx="10" ry="4.5" transform="rotate(64 198 150)"/>
+    <ellipse cx="193" cy="128" rx="10" ry="4.5" transform="rotate(78 193 128)"/>
+    <ellipse cx="200" cy="172" rx="10" ry="4.5" transform="rotate(46 200 172)"/>
+    <ellipse cx="183" cy="105" rx="9" ry="4" transform="rotate(88 183 105)"/>
+    <ellipse cx="189" cy="188" rx="9" ry="4" transform="rotate(30 189 188)"/>
+  </g>
+  <!-- star-topped football -->
+  <path d="M 128 46 L 133 58 L 146 59.5 L 136.5 68 L 139.5 81 L 128 74.5 L 116.5 81 L 119.5 68 L 110 59.5 L 123 58 Z" fill="#E8B84B"/>
+  <g transform="translate(128 138)">
+    <circle r="40" fill="#0B0E14" stroke="url(#goldStroke)" stroke-width="2.5"/>
+    <polygon points="0,-14 13.3,-4.3 8.2,11.3 -8.2,11.3 -13.3,-4.3" fill="none" stroke="#E8B84B" stroke-width="2"/>
+    <g stroke="#E8B84B" stroke-width="1.6" opacity="0.85">
+      <line x1="0" y1="-14" x2="0" y2="-38"/>
+      <line x1="13.3" y1="-4.3" x2="33" y2="-18"/>
+      <line x1="8.2" y1="11.3" x2="22" y2="30"/>
+      <line x1="-8.2" y1="11.3" x2="-22" y2="30"/>
+      <line x1="-13.3" y1="-4.3" x2="-33" y2="-18"/>
+    </g>
+  </g>
+</svg>

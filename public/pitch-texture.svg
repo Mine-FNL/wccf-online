@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="mow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2418"/>
+      <stop offset="1" stop-color="#0E2418"/>
+    </linearGradient>
+    <pattern id="stripes" width="1280" height="160" patternUnits="userSpaceOnUse">
+      <rect width="1280" height="80" fill="#0E2418"/>
+      <rect y="80" width="1280" height="80" fill="#10291B"/>
+    </pattern>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.45"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#stripes)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="3">
+    <!-- outer boundary -->
+    <rect x="40" y="30" width="1200" height="660"/>
+    <!-- halfway line -->
+    <line x1="640" y1="30" x2="640" y2="690"/>
+    <!-- center circle + spot -->
+    <circle cx="640" cy="360" r="92"/>
+    <circle cx="640" cy="360" r="4" fill="#FFFFFF" fill-opacity="0.08" stroke="none"/>
+    <!-- left penalty area -->
+    <rect x="40" y="170" width="180" height="380"/>
+    <rect x="40" y="270" width="72" height="180"/>
+    <path d="M 220 285 A 92 92 0 0 1 220 435"/>
+    <circle cx="160" cy="360" r="4" fill="#FFFFFF" fill-opacity="0.08" stroke="none"/>
+    <!-- right penalty area -->
+    <rect x="1060" y="170" width="180" height="380"/>
+    <rect x="1168" y="270" width="72" height="180"/>
+    <path d="M 1060 285 A 92 92 0 0 0 1060 435"/>
+    <circle cx="1120" cy="360" r="4" fill="#FFFFFF" fill-opacity="0.08" stroke="none"/>
+    <!-- corner arcs -->
+    <path d="M 40 42 A 12 12 0 0 0 52 30"/>
+    <path d="M 1228 30 A 12 12 0 0 0 1240 42"/>
+    <path d="M 40 678 A 12 12 0 0 1 52 690"/>
+    <path d="M 1240 678 A 12 12 0 0 0 1228 690"/>
+  </g>
+  <rect width="1280" height="720" fill="url(#vig)"/>
+</svg>
