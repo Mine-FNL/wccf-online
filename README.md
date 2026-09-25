@@ -1,71 +1,73 @@
-# WCCF Online
+# React + TypeScript + Vite
 
-A fan-made online lobby for Sega's **World Club Champion Football** (WCCF) — the arcade
-football card game (2001-02 Serie A → Footista 2021). Inspired by
-play.johnreevesiii.com's Derby Owners Club concept: a shared online arcade where every
-cabinet runs a live match, you take a seat, arrange your cards on the flat panel, and
-play with the **original button console**.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## What's inside
+Currently, two official plugins are available:
 
-- **8 live cabinets** spanning the series timeline — SERIE A 2001-2002 (NAOMI2 debut),
-  WCCF 2011-12 / 2012-13 / 2013-14 / 2015-16 / 2017-18, FOOTISTA 2021, and an
-  All-Time Legends cabinet — each streaming a deterministic simulated match that every
-  visitor sees at the same minute.
-- **Original gameplay, era-accurate controls**
-  - *Classic*: tactics cross (↑ centre breakthrough, ←/→ side attack, ↓ counter, ⊙ press)
-    + big SHOOT and GK RUSH (hold) buttons.
-  - *KP era (2006-07 → 2013-14)*: + KEY PLAYER button, Team Styles ranked E→S, SPIRIT
-    gauge, Special Command at SPIRIT MAX.
-  - *Footista*: A–E instruction buttons spending a regenerating cost bar — Shoot&GK,
-    Press, Skill, Hotline (link ≤3 players, BREAK mechanic), Man-mark — and pick 3 of
-    the 14 manager abilities.
-- **Interactive match engine** (`src/lib/engine2/`): deterministic seeded stepper —
-  same seed + same command log = identical match (Theatre replays are exact).
-  Shoot/GK timing windows, tactics that move ball lanes, morale/SPIRIT, half-time
-  team talks that shift the hexagon, substitutions (max 3, at stoppages), PK shootouts
-  for cup draws.
-- **Flat-panel arrangement editor**: 16 slots (11 field + 5 subs) on a pitch-shaped
-  panel, 6 formation presets, card-check registration rules, per-line forward/back
-  nudges, and the signature 3-zone hexagon radar (OFF/DEF/POS/WIN/SPD/POW —
-  formation level × practice level × club performance).
-- **4,785 real cards across 9 versions** (`public/data/cards.json`) — Footista
-  2019/2020/2021 complete from Sega's official card API, WCCF 2011-12 → 2017-18
-  curated sets, and a reconstructed Serie A 2001-02 debut set (flagged `approx`;
-  the official 2002 data is unrecoverable). Provenance: see `card-data` notes in
-  `scripts/merge-cards.mjs` and the repo wiki.
-- **Full-stack persistence**: Kimi OAuth login, MySQL via Drizzle ORM, tRPC API —
-  your club, collection, training, prize money (KP), match history, records and the
-  shared Hall of Fame persist server-side. Reward card ejection after every session.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Tech stack
+## React Compiler
 
-React 19 · TypeScript · Vite 7 · Tailwind CSS 3.4 · shadcn/ui · Framer Motion ·
-Hono · tRPC 11 · Drizzle ORM · MySQL · superjson
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Running locally
+## Expanding the ESLint configuration
 
-```bash
-npm install
-node scripts/restore-images.mjs   # decodes assets-b64/*.b64 → public/*.png
-cp .env.example .env              # fill in DATABASE_URL + Kimi OAuth credentials
-npm run db:push                   # sync schema
-npm run dev                       # http://localhost:3000
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
+
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
 
-> **Note on images**: the 19 PNG assets under `public/` are stored base64-encoded in
-> `assets-b64/` (GitHub API channel used for the initial upload was text-only).
-> `node scripts/restore-images.mjs` restores them losslessly; the app 404s on images
-> until you run it.
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-## Card data
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
 
-`public/data/cards.json` is generated by `scripts/merge-cards.mjs` from the curated
-source sets; `scripts/gen-card-pool.mjs` derives the server-side rarity pool
-(`contracts/card-pool.json`); `scripts/cards-check.mjs` validates the merge.
-
-## Legal
-
-Fan project. Not affiliated with SEGA or Panini. WCCF / World Club Champion Football /
-Footista are trademarks of Sega. Card data is compiled from Sega's official published
-card lists for non-commercial fan use.
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
+```
