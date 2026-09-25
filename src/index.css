@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* shadcn variables mapped onto the WCCF dark palette */
+    --background: 222 29% 6%; /* #0B0E14 */
+    --foreground: 220 29% 93%; /* #E8ECF4 */
+    --card: 222 26% 9%; /* #12161F */
+    --card-foreground: 220 29% 93%;
+    --popover: 222 26% 9%;
+    --popover-foreground: 220 29% 93%;
+    --primary: 27 100% 56%; /* #FF8A1E */
+    --primary-foreground: 222 29% 6%;
+    --secondary: 221 25% 12%; /* #171C28 */
+    --secondary-foreground: 220 29% 93%;
+    --muted: 221 25% 12%;
+    --muted-foreground: 220 13% 60%; /* #8A94A7 */
+    --accent: 27 100% 56%;
+    --accent-foreground: 222 29% 6%;
+    --destructive: 359 100% 65%; /* #FF4D4F */
+    --destructive-foreground: 220 29% 93%;
+    --border: 219 23% 18%; /* #232A38 */
+    --input: 219 23% 18%;
+    --ring: 27 100% 56%;
+    --radius: 0.625rem;
+    --sidebar-background: 222 26% 9%;
+    --sidebar-foreground: 220 29% 93%;
+    --sidebar-primary: 27 100% 56%;
+    --sidebar-primary-foreground: 222 29% 6%;
+    --sidebar-accent: 221 25% 12%;
+    --sidebar-accent-foreground: 220 29% 93%;
+    --sidebar-border: 219 23% 18%;
+    --sidebar-ring: 27 100% 56%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-base text-wccf-ink font-sans antialiased;
+    font-feature-settings: "cv11", "ss01";
+  }
+  ::selection {
+    background: rgba(255, 138, 30, 0.28);
+  }
+  /* slim dark scrollbars for rails / feeds */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #232a38;
+    border-radius: 8px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #323b4e;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+@layer utilities {
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+  .text-shadow-glow {
+    text-shadow: 0 0 24px rgba(255, 138, 30, 0.35);
+  }
+  /* kira / rare card shine sweep */
+  .kira-shine {
+    background-image: linear-gradient(
+      115deg,
+      transparent 30%,
+      rgba(122, 92, 255, 0.28) 42%,
+      rgba(77, 208, 225, 0.32) 50%,
+      rgba(232, 184, 75, 0.3) 56%,
+      rgba(255, 138, 30, 0.26) 62%,
+      transparent 76%
+    );
+    background-size: 250% 100%;
+    animation: kira-shine 2.8s linear infinite;
+  }
+  .marquee-track:hover {
+    animation-play-state: paused;
+  }
+}
