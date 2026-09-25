@@ -1,0 +1,4754 @@
+[
+ {
+  "id": "sa0102-juv-01",
+  "name": "Gianluigi BUFFON",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 001",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 19,
+   "tec": 14,
+   "pow": 17,
+   "spd": 14,
+   "sta": 15
+  },
+  "total": 82,
+  "trait": "Superhuman Shot-stopping",
+  "rarity": "RAR",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-02",
+  "name": "Lilian THURAM",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 002",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 18,
+   "tec": 12,
+   "pow": 17,
+   "spd": 16,
+   "sta": 15
+  },
+  "total": 86,
+  "trait": "Complete Defensive Cover",
+  "rarity": "REG",
+  "number": 21,
+  "nationality": "France",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-03",
+  "name": "Paolo MONTERO",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 003",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 17,
+   "tec": 10,
+   "pow": 18,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 79,
+  "trait": "Fearsome Hard Tackling",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Uruguay",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-04",
+  "name": "Ciro FERRARA",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 004",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 16,
+   "tec": 11,
+   "pow": 15,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 71,
+  "trait": "Veteran Positional Sense",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-05",
+  "name": "Gianluca PESSOTTO",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 005",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 15,
+   "tec": 12,
+   "pow": 12,
+   "spd": 14,
+   "sta": 14
+  },
+  "total": 78,
+  "trait": "Relentless Overlapping Runs",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-06",
+  "name": "Gianluca ZAMBROTTA",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 006",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 14,
+   "tec": 13,
+   "pow": 14,
+   "spd": 17,
+   "sta": 16
+  },
+  "total": 86,
+  "trait": "High-speed Overlaps",
+  "rarity": "REG",
+  "number": 19,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-07",
+  "name": "Alessio TACCHINARDI",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 007",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 16,
+   "tec": 12,
+   "pow": 15,
+   "spd": 12,
+   "sta": 15
+  },
+  "total": 79,
+  "trait": "Shielding the Back Line",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-08",
+  "name": "Edgar DAVIDS",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 008",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 16,
+   "tec": 14,
+   "pow": 15,
+   "spd": 15,
+   "sta": 18
+  },
+  "total": 90,
+  "trait": "Pitbull Ball-winning Engine",
+  "rarity": "REG",
+  "number": 26,
+  "nationality": "Netherlands",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-09",
+  "name": "Pavel NEDVED",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 009",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 13,
+   "tec": 17,
+   "pow": 15,
+   "spd": 15,
+   "sta": 17
+  },
+  "total": 93,
+  "trait": "Thunderous Long-range Drives",
+  "rarity": "SPE",
+  "number": 11,
+  "nationality": "Czech Republic",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-10",
+  "name": "Alessandro DEL PIERO",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 010",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 18,
+   "def": 8,
+   "tec": 18,
+   "pow": 13,
+   "spd": 15,
+   "sta": 13
+  },
+  "total": 85,
+  "trait": "Curled Finishes from the Left",
+  "rarity": "RAR",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-juv-11",
+  "name": "David TREZEGUET",
+  "club": "Juventus",
+  "version": "2001-02",
+  "cardNo": "01-02 / 011",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 19,
+   "def": 7,
+   "tec": 14,
+   "pow": 16,
+   "spd": 15,
+   "sta": 14
+  },
+  "total": 85,
+  "trait": "Predatory Penalty-box Instinct",
+  "rarity": "RAR",
+  "number": 17,
+  "nationality": "France",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-01",
+  "name": "Francesco ANTONIOLI",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 012",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 15,
+   "tec": 12,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Dependable Direction",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-02",
+  "name": "CAFU",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 013",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 14,
+   "tec": 14,
+   "pow": 13,
+   "spd": 18,
+   "sta": 17
+  },
+  "total": 89,
+  "trait": "Undaunted, Ambitious Overlaps",
+  "rarity": "SPE",
+  "number": 2,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-03",
+  "name": "Walter SAMUEL",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 014",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 18,
+   "tec": 11,
+   "pow": 18,
+   "spd": 14,
+   "sta": 15
+  },
+  "total": 84,
+  "trait": "The Wall in the Air",
+  "rarity": "REG",
+  "number": 19,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-04",
+  "name": "ALDAIR",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 015",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 16,
+   "tec": 12,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 76,
+  "trait": "Elegant Covering Defender",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-05",
+  "name": "Vincent CANDELA",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 016",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 14,
+   "tec": 13,
+   "pow": 13,
+   "spd": 16,
+   "sta": 15
+  },
+  "total": 83,
+  "trait": "Blistering Wing-back Surges",
+  "rarity": "REG",
+  "number": 32,
+  "nationality": "France",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-06",
+  "name": "Damiano TOMMASI",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 017",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 16,
+   "tec": 12,
+   "pow": 14,
+   "spd": 13,
+   "sta": 16
+  },
+  "total": 81,
+  "trait": "Tireless Defensive Screening",
+  "rarity": "REG",
+  "number": 17,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-07",
+  "name": "EMERSON",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 018",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 15,
+   "tec": 15,
+   "pow": 15,
+   "spd": 13,
+   "sta": 16
+  },
+  "total": 86,
+  "trait": "Box-to-box Powerhouse",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-08",
+  "name": "Marcos ASSUNCAO",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 019",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 14,
+   "tec": 13,
+   "pow": 14,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 77,
+  "trait": "Metronomic Short Passing",
+  "rarity": "REG",
+  "number": 15,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-09",
+  "name": "Francesco TOTTI",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 020",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 17,
+   "def": 9,
+   "tec": 19,
+   "pow": 15,
+   "spd": 14,
+   "sta": 14
+  },
+  "total": 88,
+  "trait": "Visionary Final Balls",
+  "rarity": "RAR",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-10",
+  "name": "Gabriel BATISTUTA",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 021",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 18,
+   "def": 7,
+   "tec": 14,
+   "pow": 18,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 84,
+  "trait": "Thunderous Long-range Strikes",
+  "rarity": "RAR",
+  "number": 18,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-rom-11",
+  "name": "Vincenzo MONTELLA",
+  "club": "AS Roma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 022",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 7,
+   "tec": 14,
+   "pow": 12,
+   "spd": 16,
+   "sta": 12
+  },
+  "total": 77,
+  "trait": "Sharp Finishing on the Turn",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-01",
+  "name": "Francesco TOLDO",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 023",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 17,
+   "tec": 13,
+   "pow": 16,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 76,
+  "trait": "Commanding Penalty-area Presence",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-02",
+  "name": "Marco MATERAZZI",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 024",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 16,
+   "tec": 11,
+   "pow": 18,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 80,
+  "trait": "Aggressive Hard Man Marking",
+  "rarity": "REG",
+  "number": 23,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-03",
+  "name": "Ivan CORDOBA",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 025",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 17,
+   "tec": 11,
+   "pow": 15,
+   "spd": 16,
+   "sta": 15
+  },
+  "total": 81,
+  "trait": "Lightning Recovery Tackles",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Colombia",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-04",
+  "name": "Laurent BLANC",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 026",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 15,
+   "tec": 13,
+   "pow": 14,
+   "spd": 10,
+   "sta": 12
+  },
+  "total": 72,
+  "trait": "Masterful Reading of the Game",
+  "rarity": "REG",
+  "number": 25,
+  "nationality": "France",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-05",
+  "name": "Vratislav GRESKO",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 027",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 11,
+   "pow": 13,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 73,
+  "trait": "Steady Left-sided Cover",
+  "rarity": "REG",
+  "number": 16,
+  "nationality": "Slovakia",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-06",
+  "name": "Javier ZANETTI",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 028",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 15,
+   "tec": 14,
+   "pow": 13,
+   "spd": 16,
+   "sta": 18
+  },
+  "total": 88,
+  "trait": "Ever-present Captain's Engine",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-07",
+  "name": "Luigi DI BIAGIO",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 029",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 15,
+   "tec": 12,
+   "pow": 15,
+   "spd": 11,
+   "sta": 14
+  },
+  "total": 76,
+  "trait": "Combative Midfield Anchor",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-08",
+  "name": "Cristiano ZANETTI",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 030",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 14,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 15
+  },
+  "total": 78,
+  "trait": "All-action Midfield Running",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-09",
+  "name": "Alvaro RECOBA",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 031",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 6,
+   "tec": 18,
+   "pow": 15,
+   "spd": 14,
+   "sta": 11
+  },
+  "total": 80,
+  "trait": "Magical Left Foot",
+  "rarity": "REG",
+  "number": 20,
+  "nationality": "Uruguay",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-10",
+  "name": "Christian VIERI",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 032",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 18,
+   "def": 7,
+   "tec": 13,
+   "pow": 18,
+   "spd": 15,
+   "sta": 13
+  },
+  "total": 84,
+  "trait": "Unstoppable Target Man",
+  "rarity": "RAR",
+  "number": 32,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-int-11",
+  "name": "RONALDO",
+  "club": "Inter",
+  "version": "2001-02",
+  "cardNo": "01-02 / 033",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 19,
+   "def": 6,
+   "tec": 18,
+   "pow": 14,
+   "spd": 18,
+   "sta": 11
+  },
+  "total": 86,
+  "trait": "Explosive Feints and Acceleration",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-01",
+  "name": "Christian ABBIATI",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 034",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 15,
+   "tec": 12,
+   "pow": 15,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Agile Shot-stopping",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-02",
+  "name": "Paolo MALDINI",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 035",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 19,
+   "tec": 15,
+   "pow": 15,
+   "spd": 14,
+   "sta": 15
+  },
+  "total": 88,
+  "trait": "Complete Defensive Mastery",
+  "rarity": "ATLE",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-03",
+  "name": "Alessandro COSTACURTA",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 036",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 16,
+   "tec": 11,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Crafty Veteran Positioning",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-04",
+  "name": "Kakha KALADZE",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 037",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 15,
+   "tec": 11,
+   "pow": 16,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 77,
+  "trait": "Powerful Left-footed Clearances",
+  "rarity": "REG",
+  "number": 13,
+  "nationality": "Georgia",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-05",
+  "name": "Cosmin CONTRA",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 038",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 13,
+   "tec": 12,
+   "pow": 13,
+   "spd": 15,
+   "sta": 13
+  },
+  "total": 77,
+  "trait": "Attack-minded Right Flank",
+  "rarity": "REG",
+  "number": 22,
+  "nationality": "Romania",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-06",
+  "name": "Gennaro GATTUSO",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 039",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 17,
+   "tec": 11,
+   "pow": 16,
+   "spd": 13,
+   "sta": 18
+  },
+  "total": 84,
+  "trait": "Snarling Ball-winning Fury",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-07",
+  "name": "Massimo AMBROSINI",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 040",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 14,
+   "tec": 12,
+   "pow": 14,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 76,
+  "trait": "Honest Two-way Midfielder",
+  "rarity": "REG",
+  "number": 23,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-08",
+  "name": "RUI COSTA",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 041",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 8,
+   "tec": 18,
+   "pow": 13,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 79,
+  "trait": "Silk-threaded Through Balls",
+  "rarity": "SPE",
+  "number": 10,
+  "nationality": "Portugal",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-09",
+  "name": "SERGINHO",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 042",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 10,
+   "tec": 14,
+   "pow": 11,
+   "spd": 18,
+   "sta": 14
+  },
+  "total": 80,
+  "trait": "Turbo-charged Left Flank Raids",
+  "rarity": "REG",
+  "number": 27,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-10",
+  "name": "Andriy SHEVCHENKO",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 043",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 18,
+   "def": 8,
+   "tec": 16,
+   "pow": 16,
+   "spd": 17,
+   "sta": 15
+  },
+  "total": 90,
+  "trait": "Blistering Breakaway Finishing",
+  "rarity": "RAR",
+  "number": 7,
+  "nationality": "Ukraine",
+  "approx": true
+ },
+ {
+  "id": "sa0102-mil-11",
+  "name": "Filippo INZAGHI",
+  "club": "AC Milan",
+  "version": "2001-02",
+  "cardNo": "01-02 / 044",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 17,
+   "def": 6,
+   "tec": 12,
+   "pow": 12,
+   "spd": 15,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Living on the Offside Line",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-01",
+  "name": "Cristiano LUPATELLI",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 045",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 66,
+  "trait": "Eccentric Sweeper-keeping",
+  "rarity": "REG",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-02",
+  "name": "Lorenzo MORO",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 046",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 14,
+   "tec": 10,
+   "pow": 15,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Gritty No-nonsense Defending",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-03",
+  "name": "Stefano FOGLIO",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 047",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 13,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Determined Man Marking",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-04",
+  "name": "Salvatore D'ANNA",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 048",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 75,
+  "trait": "Captain's Overlapping Drive",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-05",
+  "name": "Maurizio LANNA",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 049",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 10,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Dependable Left Flank Duty",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-06",
+  "name": "Eugenio CORINI",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 050",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 15,
+   "tec": 14,
+   "pow": 12,
+   "spd": 12,
+   "sta": 15
+  },
+  "total": 79,
+  "trait": "Left-footed Dead-ball Mastery",
+  "rarity": "SPE",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-07",
+  "name": "Simone PERROTTA",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 051",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 13,
+   "tec": 12,
+   "pow": 13,
+   "spd": 14,
+   "sta": 16
+  },
+  "total": 80,
+  "trait": "Late Runs into the Box",
+  "rarity": "REG",
+  "number": 13,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-08",
+  "name": "Simone BARONE",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 052",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Industrious Midfield Graft",
+  "rarity": "REG",
+  "number": 16,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-09",
+  "name": "LUCIANO",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 053",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 10,
+   "tec": 12,
+   "pow": 11,
+   "spd": 16,
+   "sta": 13
+  },
+  "total": 74,
+  "trait": "Tricky Right-wing Dribbling",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-10",
+  "name": "Bernardo CORRADI",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 054",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 7,
+   "tec": 12,
+   "pow": 15,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 74,
+  "trait": "Hard-working Target Forward",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-chi-11",
+  "name": "Massimo MARAZZINA",
+  "club": "Chievo",
+  "version": "2001-02",
+  "cardNo": "01-02 / 055",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 12,
+   "pow": 12,
+   "spd": 14,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Lively Penalty-box Movement",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-01",
+  "name": "Angelo PERUZZI",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 056",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 16,
+   "tec": 12,
+   "pow": 16,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Bulky Penalty-area Guardian",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-02",
+  "name": "Alessandro NESTA",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 057",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 19,
+   "tec": 13,
+   "pow": 15,
+   "spd": 15,
+   "sta": 14
+  },
+  "total": 84,
+  "trait": "Elegant Last-man Interceptions",
+  "rarity": "RAR",
+  "number": 13,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-03",
+  "name": "Sinisa MIHAJLOVIC",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 058",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 15,
+   "tec": 15,
+   "pow": 16,
+   "spd": 11,
+   "sta": 13
+  },
+  "total": 82,
+  "trait": "Cannonball Free Kicks",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Serbia",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-04",
+  "name": "Paolo NEGRO",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 059",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 10,
+   "pow": 13,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 72,
+  "trait": "Combative Right-sided Graft",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-05",
+  "name": "Giuseppe FAVALLI",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 060",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 11,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 72,
+  "trait": "Consistent Left Flank Cover",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-06",
+  "name": "Diego SIMEONE",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 061",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 16,
+   "tec": 13,
+   "pow": 15,
+   "spd": 12,
+   "sta": 16
+  },
+  "total": 83,
+  "trait": "El Cholo's Relentless Bite",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-07",
+  "name": "Dejan STANKOVIC",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 062",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 13,
+   "tec": 15,
+   "pow": 15,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 83,
+  "trait": "Dynamic Long-range Shooting",
+  "rarity": "REG",
+  "number": 20,
+  "nationality": "Serbia",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-08",
+  "name": "Gaizka MENDIETA",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 063",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 11,
+   "tec": 16,
+   "pow": 13,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 80,
+  "trait": "Metronomic Right-footed Delivery",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Spain",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-09",
+  "name": "Fabio LIVERANI",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 064",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 15,
+   "pow": 12,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Clever First-time Passing",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-10",
+  "name": "Hernan CRESPO",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 065",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 18,
+   "def": 7,
+   "tec": 15,
+   "pow": 15,
+   "spd": 16,
+   "sta": 14
+  },
+  "total": 85,
+  "trait": "Acrobatic Predatory Finishing",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-laz-11",
+  "name": "Claudio LOPEZ",
+  "club": "Lazio",
+  "version": "2001-02",
+  "cardNo": "01-02 / 066",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 15,
+   "def": 7,
+   "tec": 14,
+   "pow": 12,
+   "spd": 17,
+   "sta": 13
+  },
+  "total": 78,
+  "trait": "El Piojo's Darting Runs",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-01",
+  "name": "Gianluca PAGLIUCA",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 067",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 15,
+   "tec": 12,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Veteran Reflex Saves",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-02",
+  "name": "Fabio FALCONE",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 068",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 14,
+   "tec": 10,
+   "pow": 15,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Committed Aerial Duels",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-03",
+  "name": "Michele PARAMATTI",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 069",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 68,
+  "trait": "Steady Covering Defender",
+  "rarity": "REG",
+  "number": 13,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-04",
+  "name": "Marco CASTELLINI",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 070",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 11,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Hard-working Left Flank",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-05",
+  "name": "Pierre WOME",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 071",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 12,
+   "pow": 14,
+   "spd": 15,
+   "sta": 14
+  },
+  "total": 78,
+  "trait": "Energetic Wing-back Surges",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Cameroon",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-06",
+  "name": "Giuseppe SIGNORI",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 072",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 6,
+   "tec": 16,
+   "pow": 13,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 76,
+  "trait": "Left-footed Free-kick Precision",
+  "rarity": "SPE",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-07",
+  "name": "Lamberto ZAULI",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 073",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 8,
+   "tec": 14,
+   "pow": 12,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 72,
+  "trait": "Creative Between-the-lines Play",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-08",
+  "name": "Carlo NERVO",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 074",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 10,
+   "tec": 12,
+   "pow": 11,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Industrious Right Flank Play",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-09",
+  "name": "Renato OLIVE",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 075",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 11,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Destructive Midfield Tackling",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-10",
+  "name": "Julio CRUZ",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 076",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 15,
+   "def": 7,
+   "tec": 13,
+   "pow": 16,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 77,
+  "trait": "Towering Back-to-goal Play",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bol-11",
+  "name": "Claudio BELLUCCI",
+  "club": "Bologna",
+  "version": "2001-02",
+  "cardNo": "01-02 / 077",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Opportunistic Close-range Finishes",
+  "rarity": "REG",
+  "number": 20,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-01",
+  "name": "Marco MAZZANTINI",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 078",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 66,
+  "trait": "Brave Low Shot-stopping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-02",
+  "name": "Paolo DI LORETO",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 079",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 13,
+   "tec": 9,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 65,
+  "trait": "Rugged Central Cover",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-03",
+  "name": "Sean SOGLIANO",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 080",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Determined Aerial Presence",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-04",
+  "name": "Rahman REZAEI",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 081",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 14,
+   "tec": 10,
+   "pow": 15,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 73,
+  "trait": "Relentless Hard Tackling",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Iran",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-05",
+  "name": "ZE MARIA",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 082",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 13,
+   "tec": 13,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Cultured Overlapping Full-back",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-06",
+  "name": "Giovanni TEDESCO",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 083",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 13,
+   "tec": 12,
+   "pow": 12,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Buzzing Box-to-box Energy",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-07",
+  "name": "Manuele BLASI",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 084",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 12,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 73,
+  "trait": "Tidy Deep-lying Distribution",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-08",
+  "name": "Davide BAIOCCO",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 085",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 11,
+   "pow": 13,
+   "spd": 11,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Honest Midfield Legwork",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-09",
+  "name": "Christian OBODO",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 086",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 11,
+   "tec": 13,
+   "pow": 12,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 73,
+  "trait": "Silky Midfield Carrying",
+  "rarity": "REG",
+  "number": 20,
+  "nationality": "Nigeria",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-10",
+  "name": "Zisis VRYZAS",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 087",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 8,
+   "tec": 12,
+   "pow": 15,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Selfless Target-man Link Play",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Greece",
+  "approx": true
+ },
+ {
+  "id": "sa0102-per-11",
+  "name": "Jung-hwan AHN",
+  "club": "Perugia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 088",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 7,
+   "tec": 13,
+   "pow": 11,
+   "spd": 15,
+   "sta": 12
+  },
+  "total": 71,
+  "trait": "Energetic Wide Forward Runs",
+  "rarity": "REG",
+  "number": 19,
+  "nationality": "South Korea",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-01",
+  "name": "Massimo TAIBI",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 089",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 15,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Strong-handed Shot-stopping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-02",
+  "name": "Massimo CARRERA",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 090",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 15,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 72,
+  "trait": "Captain's Organising Voice",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-03",
+  "name": "Luigi SALA",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 091",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Reliable Central Marking",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-04",
+  "name": "Fabio RUSTICO",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 092",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 12,
+   "tec": 10,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Gutsy Left Flank Battling",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-05",
+  "name": "Gianpaolo BELLINI",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 093",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Versatile Defensive Cover",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-06",
+  "name": "Cristiano DONI",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 094",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 8,
+   "tec": 16,
+   "pow": 13,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 79,
+  "trait": "Deft Chips and Killer Passes",
+  "rarity": "SPE",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-07",
+  "name": "Luciano ZAURI",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 095",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 12,
+   "pow": 11,
+   "spd": 14,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Swinging Left-footed Crosses",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-08",
+  "name": "Damiano ZENONI",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 096",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 12,
+   "pow": 12,
+   "spd": 14,
+   "sta": 15
+  },
+  "total": 76,
+  "trait": "Twin Engine on the Right",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-09",
+  "name": "Fabio GALLO",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 097",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 12,
+   "tec": 11,
+   "pow": 12,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Diligent Midfield Rotation",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-10",
+  "name": "Davor VUGRINEC",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 098",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 6,
+   "tec": 12,
+   "pow": 13,
+   "spd": 14,
+   "sta": 12
+  },
+  "total": 71,
+  "trait": "Clever Penalty-box Movement",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Croatia",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ata-11",
+  "name": "PIA'",
+  "club": "Atalanta",
+  "version": "2001-02",
+  "cardNo": "01-02 / 099",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 13,
+   "pow": 12,
+   "spd": 14,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Tricky Forward Flourishes",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-01",
+  "name": "Sebastien FREY",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 100",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 16,
+   "tec": 13,
+   "pow": 14,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 73,
+  "trait": "Elastic Reflex Shot-stopping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "France",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-02",
+  "name": "Fabio CANNAVARO",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 101",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 18,
+   "tec": 12,
+   "pow": 14,
+   "spd": 15,
+   "sta": 15
+  },
+  "total": 83,
+  "trait": "Spring-heeled Defensive Reading",
+  "rarity": "REG",
+  "number": 17,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-03",
+  "name": "Nestor SENSINI",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 102",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 15,
+   "tec": 11,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 72,
+  "trait": "Wily Veteran Defending",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-04",
+  "name": "Matteo FERRARI",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 103",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 68,
+  "trait": "Developing Ball-playing Centre-half",
+  "rarity": "REG",
+  "number": 31,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-05",
+  "name": "Antonio BENARRIVO",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 104",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 10,
+   "pow": 12,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Veteran Right Flank Energy",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-06",
+  "name": "Matias ALMEYDA",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 105",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 15,
+   "tec": 13,
+   "pow": 14,
+   "spd": 12,
+   "sta": 15
+  },
+  "total": 79,
+  "trait": "Fierce Holding Midfield Bite",
+  "rarity": "REG",
+  "number": 25,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-07",
+  "name": "Sabri LAMOUCHI",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 106",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 13,
+   "tec": 13,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 74,
+  "trait": "Composed Midfield Distribution",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "France",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-08",
+  "name": "Hidetoshi NAKATA",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 107",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 9,
+   "tec": 16,
+   "pow": 13,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 79,
+  "trait": "Driven Long-range Playmaking",
+  "rarity": "SPE",
+  "number": 10,
+  "nationality": "Japan",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-09",
+  "name": "Marco MARCHIONNI",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 108",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 10,
+   "tec": 13,
+   "pow": 12,
+   "spd": 15,
+   "sta": 14
+  },
+  "total": 76,
+  "trait": "Whisper-quick Right Flank Runs",
+  "rarity": "REG",
+  "number": 21,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-10",
+  "name": "Marco DI VAIO",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 109",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 7,
+   "tec": 13,
+   "pow": 14,
+   "spd": 16,
+   "sta": 13
+  },
+  "total": 79,
+  "trait": "Devastating Counter-attack Finishing",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-par-11",
+  "name": "Emiliano BONAZZOLI",
+  "club": "Parma",
+  "version": "2001-02",
+  "cardNo": "01-02 / 110",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 6,
+   "tec": 12,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Promising Young Poacher",
+  "rarity": "REG",
+  "number": 20,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-01",
+  "name": "Luca BUCCI",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 111",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 66,
+  "trait": "Acrobatic Shot-stopping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-02",
+  "name": "Fabio GALANTE",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 112",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 14,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Physical Central Marking",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-03",
+  "name": "Luigi GARZYA",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 113",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 13,
+   "tec": 9,
+   "pow": 13,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 64,
+  "trait": "Honest Defensive Clearances",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-04",
+  "name": "Marco FATTORI",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 114",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 12,
+   "tec": 9,
+   "pow": 13,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 64,
+  "trait": "Committed Last-ditch Blocks",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-05",
+  "name": "Gianluca COMOTTO",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 115",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 11,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Dependable Right Flank Duty",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-06",
+  "name": "Ezio BREVI",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 116",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Gritty Midfield Tackling",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-07",
+  "name": "Gianluca DE ASCENTIS",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 117",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 12,
+   "pow": 12,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Busy Midfield Linking",
+  "rarity": "REG",
+  "number": 16,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-08",
+  "name": "Antonino ASTA",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 118",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 9,
+   "tec": 12,
+   "pow": 11,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Whipping Right-wing Crosses",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-09",
+  "name": "Simone VERGASSOLA",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 119",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 12,
+   "tec": 11,
+   "pow": 12,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Neat Positional Play",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-10",
+  "name": "Marco FERRANTE",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 120",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 6,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Veteran Penalty-box Cunning",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-tor-11",
+  "name": "Cristiano LUCARELLI",
+  "club": "Torino",
+  "version": "2001-02",
+  "cardNo": "01-02 / 121",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 15,
+   "def": 7,
+   "tec": 13,
+   "pow": 16,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 78,
+  "trait": "Passionate Left-footed Power",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-01",
+  "name": "Matteo GUARDALBEN",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 122",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 11,
+   "sta": 11
+  },
+  "total": 61,
+  "trait": "Brave Close-range Blocks",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-02",
+  "name": "Alessandro LUCARELLI",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 123",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Wholehearted Central Defending",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-03",
+  "name": "Paolo CARDONE",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 124",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 12,
+   "tec": 9,
+   "pow": 13,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 63,
+  "trait": "No-frills Defensive Work",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-04",
+  "name": "Luigi MALTAGLIATI",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 125",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 12,
+   "tec": 9,
+   "pow": 13,
+   "spd": 10,
+   "sta": 11
+  },
+  "total": 61,
+  "trait": "Gritty Covering Tackles",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-05",
+  "name": "Paolo TRAMEZZANI",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 126",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 12,
+   "tec": 11,
+   "pow": 11,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Experienced Left-sided Cover",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-06",
+  "name": "Francesco STATUTO",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 127",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 11,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Gnarled Midfield Anchoring",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-07",
+  "name": "Enzo MARESCA",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 128",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 14,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Elegant Box-to-box Carrying",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-08",
+  "name": "Carmine GAUTIERI",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 129",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 9,
+   "tec": 14,
+   "pow": 12,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 73,
+  "trait": "Crafty Between-the-lines Passing",
+  "rarity": "REG",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-09",
+  "name": "Sergio VOLPI",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 130",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 12,
+   "pow": 12,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Tidy Left-footed Distribution",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-10",
+  "name": "Dario HUBNER",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 131",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 17,
+   "def": 5,
+   "tec": 14,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 73,
+  "trait": "Grandpa Hubner's Deadly Finishing",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-pia-11",
+  "name": "Nicola CACCIA",
+  "club": "Piacenza",
+  "version": "2001-02",
+  "cardNo": "01-02 / 132",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 5,
+   "tec": 12,
+   "pow": 12,
+   "spd": 12,
+   "sta": 11
+  },
+  "total": 65,
+  "trait": "Clever Support-striker Play",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-01",
+  "name": "Pavel SRNICEK",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 133",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 66,
+  "trait": "Cheerful Command of the Box",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Czech Republic",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-02",
+  "name": "Alessandro CALORI",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 134",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 14,
+   "tec": 10,
+   "pow": 15,
+   "spd": 11,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Captain's Hard-man Marking",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-03",
+  "name": "Alessandro PETRUZZI",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 135",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 13,
+   "tec": 9,
+   "pow": 13,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 64,
+  "trait": "Solid Central Cover",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-04",
+  "name": "Dario DAINELLI",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 136",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 67,
+  "trait": "Mobile Ball-carrying Defender",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-05",
+  "name": "Aimo DIANA",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 137",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 12,
+   "pow": 12,
+   "spd": 14,
+   "sta": 14
+  },
+  "total": 75,
+  "trait": "Indefatigable Right Flank Running",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-06",
+  "name": "Josep GUARDIOLA",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 138",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 13,
+   "tec": 17,
+   "pow": 12,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 76,
+  "trait": "Deep-lying Passing Maestro",
+  "rarity": "SPE",
+  "number": 4,
+  "nationality": "Spain",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-07",
+  "name": "Antonio FILIPPINI",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 139",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 13,
+   "tec": 12,
+   "pow": 13,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Twin Midfield Tenacity",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-08",
+  "name": "Emanuele FILIPPINI",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 140",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 13,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 75,
+  "trait": "Mirror-image Midfield Drive",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-09",
+  "name": "Roberto BAGGIO",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 141",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 17,
+   "def": 6,
+   "tec": 19,
+   "pow": 13,
+   "spd": 12,
+   "sta": 11
+  },
+  "total": 78,
+  "trait": "Divine Ponytail's Free Kicks",
+  "rarity": "ATLE",
+  "number": 10,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-10",
+  "name": "Luca TONI",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 142",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 15,
+   "def": 7,
+   "tec": 12,
+   "pow": 17,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 77,
+  "trait": "Dominant Aerial Target Man",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-bre-11",
+  "name": "Igli TARE",
+  "club": "Brescia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 143",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 12,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Hard-running Support Forward",
+  "rarity": "REG",
+  "number": 17,
+  "nationality": "Albania",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-01",
+  "name": "Luigi TURCI",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 144",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 65,
+  "trait": "Safe-handed Veteran Keeping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-02",
+  "name": "Alessandro BERTOTTO",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 145",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 14,
+   "tec": 10,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Captain's Old-school Marking",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-03",
+  "name": "Thomas MANFREDINI",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 146",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Athletic Central Cover",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-04",
+  "name": "Per KROLDRUP",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 147",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Composed Danish Defending",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Denmark",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-05",
+  "name": "Marek JANKULOVSKI",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 148",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 13,
+   "tec": 12,
+   "pow": 13,
+   "spd": 14,
+   "sta": 14
+  },
+  "total": 77,
+  "trait": "Powerful Left Flank Forays",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Czech Republic",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-06",
+  "name": "Giuliano GIANNICHEDDA",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 149",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 15
+  },
+  "total": 74,
+  "trait": "Relentless Midfield Destroying",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-07",
+  "name": "Giampiero PINZI",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 150",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Energetic Two-way Running",
+  "rarity": "REG",
+  "number": 16,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-08",
+  "name": "Martin JORGENSEN",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 151",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 10,
+   "tec": 13,
+   "pow": 11,
+   "spd": 15,
+   "sta": 13
+  },
+  "total": 74,
+  "trait": "Clever Wide-play Drifting",
+  "rarity": "REG",
+  "number": 10,
+  "nationality": "Denmark",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-09",
+  "name": "David PIZARRO",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 152",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 9,
+   "tec": 16,
+   "pow": 11,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 74,
+  "trait": "Clever Chilean Playmaking",
+  "rarity": "SPE",
+  "number": 14,
+  "nationality": "Chile",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-10",
+  "name": "Roberto MUZZI",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 153",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 6,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Slippery Penalty-box Finishing",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-udi-11",
+  "name": "David DI MICHELE",
+  "club": "Udinese",
+  "version": "2001-02",
+  "cardNo": "01-02 / 154",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 12,
+   "pow": 11,
+   "spd": 15,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Quick Breakaway Running",
+  "rarity": "REG",
+  "number": 19,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-01",
+  "name": "Fabrizio FERRON",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 155",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 11,
+   "sta": 11
+  },
+  "total": 61,
+  "trait": "Veteran Positional Keeping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-02",
+  "name": "Martin LAURSEN",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 156",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 15,
+   "tec": 10,
+   "pow": 16,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Commanding Danish Aerial Power",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Denmark",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-03",
+  "name": "Marco CASSETTI",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 157",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Versatile Defensive Reliability",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-04",
+  "name": "Luigi APOLLONI",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 158",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 13,
+   "tec": 9,
+   "pow": 14,
+   "spd": 10,
+   "sta": 11
+  },
+  "total": 63,
+  "trait": "Veteran Central Cover",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-05",
+  "name": "Massimo ODDO",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 159",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 13,
+   "tec": 12,
+   "pow": 12,
+   "spd": 14,
+   "sta": 14
+  },
+  "total": 76,
+  "trait": "Relentless Right Flank Overlaps",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-06",
+  "name": "Mauro CAMORANESI",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 160",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 10,
+   "tec": 16,
+   "pow": 12,
+   "spd": 15,
+   "sta": 14
+  },
+  "total": 81,
+  "trait": "Feinting Right-wing Wizardry",
+  "rarity": "SPE",
+  "number": 7,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-07",
+  "name": "Leonardo COLUCCI",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 161",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 12,
+   "tec": 13,
+   "pow": 13,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 75,
+  "trait": "Inventive Midfield Passing",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-08",
+  "name": "Vincenzo ITALIANO",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 162",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 12,
+   "pow": 12,
+   "spd": 11,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Neat Deep Playmaking",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-09",
+  "name": "Giuseppe COLUCCI",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 163",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 11,
+   "tec": 12,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Tenacious Midfield Pressing",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-10",
+  "name": "Adrian MUTU",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 164",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 15,
+   "def": 6,
+   "tec": 16,
+   "pow": 12,
+   "spd": 15,
+   "sta": 12
+  },
+  "total": 76,
+  "trait": "Mercurial Romanian Flair",
+  "rarity": "REG",
+  "number": 10,
+  "nationality": "Romania",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ver-11",
+  "name": "Alberto GILARDINO",
+  "club": "Verona",
+  "version": "2001-02",
+  "cardNo": "01-02 / 165",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 12,
+   "pow": 14,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Promising Young Target Forward",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-01",
+  "name": "Antonio CHIMENTI",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 166",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 13,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 65,
+  "trait": "Reliable Veteran Handling",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-02",
+  "name": "JUAREZ",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 167",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 10,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 68,
+  "trait": "Brazilian Ball-playing Defender",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-03",
+  "name": "Andrea GIORGETTI",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 168",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 12,
+   "tec": 9,
+   "pow": 13,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 64,
+  "trait": "Committed Central Defending",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-04",
+  "name": "Vincenzo SOVIERO",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 169",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 12,
+   "tec": 9,
+   "pow": 12,
+   "spd": 11,
+   "sta": 11
+  },
+  "total": 61,
+  "trait": "Scrappy Defensive Cover",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-05",
+  "name": "David BALLERI",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 170",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 13,
+   "tec": 10,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Steady Right Flank Work",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-06",
+  "name": "Guillermo GIACOMAZZI",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 171",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 11,
+   "pow": 15,
+   "spd": 12,
+   "sta": 15
+  },
+  "total": 76,
+  "trait": "Uruguayan Midfield Grit",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Uruguay",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-07",
+  "name": "Cristian LEDESMA",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 172",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 13,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 73,
+  "trait": "Elegant Argentine Passing",
+  "rarity": "REG",
+  "number": 24,
+  "nationality": "Argentina",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-08",
+  "name": "Max TONETTO",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 173",
+  "positions": [
+   "SMF"
+  ],
+  "stats": {
+   "off": 11,
+   "def": 11,
+   "tec": 12,
+   "pow": 11,
+   "spd": 15,
+   "sta": 14
+  },
+  "total": 74,
+  "trait": "Bustling Left Flank Energy",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-09",
+  "name": "Mirko VUCINIC",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 174",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 7,
+   "tec": 14,
+   "pow": 12,
+   "spd": 13,
+   "sta": 11
+  },
+  "total": 70,
+  "trait": "Mercurial Montenegrin Talent",
+  "rarity": "REG",
+  "number": 9,
+  "nationality": "Montenegro",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-10",
+  "name": "Ernesto CHEVANTON",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 175",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 5,
+   "tec": 15,
+   "pow": 13,
+   "spd": 15,
+   "sta": 12
+  },
+  "total": 76,
+  "trait": "Deadly Free-kick Specialist",
+  "rarity": "SPE",
+  "number": 20,
+  "nationality": "Uruguay",
+  "approx": true
+ },
+ {
+  "id": "sa0102-lec-11",
+  "name": "Axel KONAN",
+  "club": "Lecce",
+  "version": "2001-02",
+  "cardNo": "01-02 / 176",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 6,
+   "tec": 11,
+   "pow": 13,
+   "spd": 15,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Direct Pace on the Break",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Ivory Coast",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-01",
+  "name": "Alex MANNINGER",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 177",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 66,
+  "trait": "Commanding Austrian Reach",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Austria",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-02",
+  "name": "Daniele ADANI",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 178",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 15,
+   "tec": 11,
+   "pow": 14,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 74,
+  "trait": "Front-foot Aggressive Marking",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-03",
+  "name": "Alessandro PIERINI",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 179",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 7,
+   "def": 13,
+   "tec": 9,
+   "pow": 14,
+   "spd": 11,
+   "sta": 12
+  },
+  "total": 66,
+  "trait": "Uncompromising Central Defending",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-04",
+  "name": "Moreno TORRICELLI",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 180",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 69,
+  "trait": "Veteran Versatile Cover",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-05",
+  "name": "Cristiano MORETTI",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 181",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 12,
+   "tec": 11,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Flexible Left-sided Defending",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-06",
+  "name": "Sandro COIS",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 182",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 14,
+   "tec": 11,
+   "pow": 14,
+   "spd": 11,
+   "sta": 14
+  },
+  "total": 72,
+  "trait": "Determined Defensive Screening",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-07",
+  "name": "AMARAL",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 183",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 12,
+   "pow": 14,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 75,
+  "trait": "Fiery Brazilian Ball-winning",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-08",
+  "name": "Fabio ROSSITTO",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 184",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 12,
+   "pow": 12,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Industrious Midfield Shuttle",
+  "rarity": "REG",
+  "number": 14,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-09",
+  "name": "Roberto BARONIO",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 185",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 13,
+   "pow": 11,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Elegant Regista Passing",
+  "rarity": "REG",
+  "number": 18,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-10",
+  "name": "Enrico CHIESA",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 186",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 6,
+   "tec": 14,
+   "pow": 14,
+   "spd": 13,
+   "sta": 11
+  },
+  "total": 74,
+  "trait": "Clever Counter-attack Finishing",
+  "rarity": "REG",
+  "number": 20,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-fio-11",
+  "name": "ADRIANO",
+  "club": "Fiorentina",
+  "version": "2001-02",
+  "cardNo": "01-02 / 187",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 16,
+   "def": 6,
+   "tec": 14,
+   "pow": 18,
+   "spd": 15,
+   "sta": 12
+  },
+  "total": 81,
+  "trait": "Frightening Left-foot Power",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-01",
+  "name": "Generoso ROSSI",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 188",
+  "positions": [
+   "GK"
+  ],
+  "stats": {
+   "off": 3,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 12,
+   "sta": 11
+  },
+  "total": 62,
+  "trait": "Agile Acrobatic Keeping",
+  "rarity": "REG",
+  "number": 1,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-02",
+  "name": "Alessandro DAL CANTO",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 189",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 13,
+   "tec": 10,
+   "pow": 13,
+   "spd": 10,
+   "sta": 11
+  },
+  "total": 63,
+  "trait": "Veteran Organisational Skills",
+  "rarity": "REG",
+  "number": 6,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-03",
+  "name": "William VIALI",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 190",
+  "positions": [
+   "CB"
+  ],
+  "stats": {
+   "off": 6,
+   "def": 12,
+   "tec": 9,
+   "pow": 12,
+   "spd": 11,
+   "sta": 11
+  },
+  "total": 61,
+  "trait": "Honest Central Cover",
+  "rarity": "REG",
+  "number": 5,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-04",
+  "name": "Mauro MILANESE",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 191",
+  "positions": [
+   "LSB"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 12,
+   "tec": 12,
+   "pow": 12,
+   "spd": 13,
+   "sta": 13
+  },
+  "total": 72,
+  "trait": "Swashbuckling Left Flank Play",
+  "rarity": "REG",
+  "number": 3,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-05",
+  "name": "Manuel BELLERI",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 192",
+  "positions": [
+   "RSB"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 12,
+   "tec": 11,
+   "pow": 12,
+   "spd": 14,
+   "sta": 13
+  },
+  "total": 71,
+  "trait": "Hard-running Right Flank Duty",
+  "rarity": "REG",
+  "number": 2,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-06",
+  "name": "Stefano MORRONE",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 193",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 8,
+   "def": 13,
+   "tec": 11,
+   "pow": 13,
+   "spd": 12,
+   "sta": 13
+  },
+  "total": 70,
+  "trait": "Tigerish Midfield Tackling",
+  "rarity": "REG",
+  "number": 8,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-07",
+  "name": "Ivone DE FRANCESCHI",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 194",
+  "positions": [
+   "CMF"
+  ],
+  "stats": {
+   "off": 10,
+   "def": 11,
+   "tec": 12,
+   "pow": 12,
+   "spd": 12,
+   "sta": 12
+  },
+  "total": 69,
+  "trait": "Neat Midfield Combination Play",
+  "rarity": "REG",
+  "number": 4,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-08",
+  "name": "Pablo GARCIA",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 195",
+  "positions": [
+   "DMF"
+  ],
+  "stats": {
+   "off": 9,
+   "def": 14,
+   "tec": 12,
+   "pow": 15,
+   "spd": 12,
+   "sta": 14
+  },
+  "total": 76,
+  "trait": "Ferocious Uruguayan Tackling",
+  "rarity": "REG",
+  "number": 13,
+  "nationality": "Uruguay",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-09",
+  "name": "TUTA",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 196",
+  "positions": [
+   "OMF"
+  ],
+  "stats": {
+   "off": 12,
+   "def": 8,
+   "tec": 13,
+   "pow": 12,
+   "spd": 13,
+   "sta": 11
+  },
+  "total": 69,
+  "trait": "Samba-tinged Creative Passing",
+  "rarity": "REG",
+  "number": 7,
+  "nationality": "Brazil",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-10",
+  "name": "Arturo DI NAPOLI",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 197",
+  "positions": [
+   "CF"
+  ],
+  "stats": {
+   "off": 14,
+   "def": 6,
+   "tec": 12,
+   "pow": 13,
+   "spd": 13,
+   "sta": 12
+  },
+  "total": 70,
+  "trait": "Romantic Poacher's Instinct",
+  "rarity": "SPE",
+  "number": 9,
+  "nationality": "Italy",
+  "approx": true
+ },
+ {
+  "id": "sa0102-ven-11",
+  "name": "Federico MAGALLANES",
+  "club": "Venezia",
+  "version": "2001-02",
+  "cardNo": "01-02 / 198",
+  "positions": [
+   "FW"
+  ],
+  "stats": {
+   "off": 13,
+   "def": 6,
+   "tec": 13,
+   "pow": 12,
+   "spd": 13,
+   "sta": 11
+  },
+  "total": 68,
+  "trait": "Cultured Left-footed Touch",
+  "rarity": "REG",
+  "number": 11,
+  "nationality": "Uruguay",
+  "approx": true
+ }
+]
