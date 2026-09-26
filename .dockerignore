@@ -1,5 +1,11 @@
 node_modules
 dist
 .git
-*.swp
+.gitignore
+.DS_Store
 *.log
+coverage
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo

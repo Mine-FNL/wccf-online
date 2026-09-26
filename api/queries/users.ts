@@ -13,6 +13,24 @@ export async function findUserByUnionId(unionId: string) {
   return rows.at(0);
 }
 
+/**
+ * Creates (or refreshes) a name-only guest account. Guests live in the same
+ * table as provider users so every downstream query works unchanged; the
+ * "guest:" unionId prefix keeps the two namespaces from ever colliding.
+ */
+export async function upsertGuestUser(data: { unionId: string; name: string }) {
+  await getDb()
+    .insert(schema.users)
+    .values({
+      unionId: data.unionId,
+      name: data.name,
+      lastSignInAt: new Date(),
+    })
+    .onDuplicateKeyUpdate({
+      set: { name: data.name, lastSignInAt: new Date() },
+    });
+}
+
 export async function upsertUser(data: InsertUser) {
   const values = { ...data };
   const updateSet: Partial<InsertUser> = {
