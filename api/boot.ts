@@ -6,12 +6,26 @@ import { appRouter } from "./router";
 import { createContext } from "./context";
 import { env } from "./lib/env";
 import { createOAuthCallbackHandler } from "./kimi/auth";
+import { createGuestLoginHandler } from "./guest/auth";
 import { Paths } from "@contracts/constants";
 
 const app = new Hono<{ Bindings: HttpBindings }>();
 
 app.use(bodyLimit({ maxSize: 50 * 1024 * 1024 }));
-app.get(Paths.oauthCallback, createOAuthCallbackHandler());
+
+// Liveness for Railway (and anything else): answers without touching the DB,
+// so a healthy process is never restarted because of a slow query.
+app.get("/health", (c) => c.json({ ok: true, ts: Date.now() }));
+
+// Name-only entry, in the spirit of the arcade lobby: pick a name, take a seat.
+if (env.guestEnabled) {
+  app.post(Paths.guest, createGuestLoginHandler());
+}
+
+if (env.kimiEnabled) {
+  app.get(Paths.oauthCallback, createOAuthCallbackHandler());
+}
+
 app.use("/api/trpc/*", async (c) => {
   return fetchRequestHandler({
     endpoint: "/api/trpc",
@@ -32,5 +46,8 @@ if (env.isProduction) {
   const port = parseInt(process.env.PORT || "3000");
   serve({ fetch: app.fetch, port }, () => {
     console.log(`Server running on http://localhost:${port}/`);
+    console.log(
+      `Auth mode: ${env.authMode} (guest=${env.guestEnabled}, kimi=${env.kimiEnabled})`,
+    );
   });
 }
